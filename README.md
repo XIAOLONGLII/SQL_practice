@@ -3,7 +3,7 @@
 This is the SQL practice to let me understand how this works in a very efficient way! 
 
 
-Day 1:
+Day 1, May 10:
 
 1. Creating a table and insert data into it. 
 
@@ -28,7 +28,7 @@ Day 1:
 
 
 
-Day2: 
+Day2 May 11:
 
 1. SUM COUNT AVERAGE
 
