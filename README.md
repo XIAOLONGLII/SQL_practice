@@ -36,3 +36,8 @@ Day2:
 ![screen shot 2018-05-10 at 6 41 56 am](https://user-images.githubusercontent.com/19642027/39866110-436fb244-541d-11e8-8a86-d56fca7793aa.png)
 
 2. 
+Add another SELECT that uses OR to show the titles of the songs that have an 'epic' mood or a release date after 1990.
+
+Add another SELECT that uses AND to show the titles of songs that are 'epic', and released after 1990, and less than 4 minutes long.
+<img width="655" alt="screen shot 2018-05-10 at 1 09 11 pm" src="https://user-images.githubusercontent.com/19642027/39882953-69f468c0-5453-11e8-8ac7-bb70c7aeab5d.png">
+
