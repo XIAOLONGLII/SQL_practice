@@ -28,7 +28,11 @@ Day 1:
 
 
 
-Day2: SUM COUNT AVERAGE
+Day2: 
+
+1. SUM COUNT AVERAGE
 
 
 ![screen shot 2018-05-10 at 6 41 56 am](https://user-images.githubusercontent.com/19642027/39866110-436fb244-541d-11e8-8a86-d56fca7793aa.png)
+
+2. 
