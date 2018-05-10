@@ -46,3 +46,8 @@ id	name	rating
 1	Blue Ocean SHift	90
 2	1984 Geroge Orwell	99
 3	Comman Sence
+
+
+Day2:
+
+![screen shot 2018-05-10 at 6 41 56 am](https://user-images.githubusercontent.com/19642027/39866110-436fb244-541d-11e8-8a86-d56fca7793aa.png)
