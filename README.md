@@ -29,7 +29,7 @@ Day 1, May 10:
 
 
 
-Day2 May 11:
+Day2 May 11:(aggregate functions)
 ------------------------------------------------------------------------------------------------------------------------
 
 1. SUM COUNT AVERAGE
@@ -44,8 +44,7 @@ b, Add another SELECT that uses AND to show the titles of songs that are 'epic',
 <img width="655" alt="screen shot 2018-05-10 at 1 09 11 pm" src="https://user-images.githubusercontent.com/19642027/39882953-69f468c0-5453-11e8-8ac7-bb70c7aeab5d.png">
 
 
-Day 3 May 12:
-------------------------------------------------------------------------------------------------------------------------
+Day 3 May 12:(Querying IN subqueries)
 ------------------------------------------------------------------------------------------------------------------------
 ![screen shot 2018-05-11 at 7 03 16 am](https://user-images.githubusercontent.com/19642027/39921600-80b362f0-54e9-11e8-93fe-78c4fce960fd.png)
 
