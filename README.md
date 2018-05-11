@@ -43,6 +43,8 @@ b, Add another SELECT that uses AND to show the titles of songs that are 'epic',
 
 
 Day 3 May 12:
+------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------
 ![screen shot 2018-05-11 at 7 03 16 am](https://user-images.githubusercontent.com/19642027/39921600-80b362f0-54e9-11e8-93fe-78c4fce960fd.png)
 
 ![screen shot 2018-05-11 at 7 03 27 am](https://user-images.githubusercontent.com/19642027/39921599-80a52cda-54e9-11e8-9592-b857c4e47f1c.png)
