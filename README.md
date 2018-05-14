@@ -54,5 +54,8 @@ Day 3 May 12:(Querying IN subqueries)
 
 ![screen shot 2018-05-11 at 7 03 53 am](https://user-images.githubusercontent.com/19642027/39921597-8088a204-54e9-11e8-93ce-5796114ec036.png)
 
+Day 4 May 14:(Having, Group by)
+------------------------------------------------------------------------------------------------------------------------
 
-
+![screen shot 2018-05-14 at 6 49 23 am](https://user-images.githubusercontent.com/19642027/39993204-096d75f8-5743-11e8-99c4-36698e539a58.png)
+![screen shot 2018-05-14 at 6 49 47 am](https://user-images.githubusercontent.com/19642027/39993205-097fd996-5743-11e8-8aa6-417ae1678986.png)
