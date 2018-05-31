@@ -3,6 +3,11 @@
 This is the SQL practice to let me understand how this works in a very efficient way! 
 
 Day 5
+
+----------------------------------------------------------------------------------
+
+![screen shot 2018-05-31 at 7 02 14 am](https://user-images.githubusercontent.com/19642027/40778824-9a2a8f3a-64a0-11e8-806e-a85cc2a542f4.png)
+
 ----------------------------------------------------------------------------------
 Udacity Course 1
 
