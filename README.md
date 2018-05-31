@@ -2,6 +2,13 @@
 
 This is the SQL practice to let me understand how this works in a very efficient way! 
 
+Day 5
+----------------------------------------------------------------------------------
+Udacity Course 1
+
+![screen shot 2018-05-31 at 6 31 33 am](https://user-images.githubusercontent.com/19642027/40777604-53cbbbda-649c-11e8-953d-fe2c6b8084b5.png)
+
+
 
 Day 1, May 10:
 ------------------------------------------------------------------------------------------------------------------------
