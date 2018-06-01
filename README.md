@@ -2,6 +2,13 @@
 
 This is the SQL practice to let me understand how this works in a very efficient way! 
 
+Day 6 LIMIT
+
+----------------------------------------------------------------------------------
+
+<img width="785" alt="screen shot 2018-06-01 at 10 42 56 am" src="https://user-images.githubusercontent.com/19642027/40846789-9679a9b4-6588-11e8-9892-92ffd2eea0d2.png">
+
+
 Day 5
 
 ----------------------------------------------------------------------------------
