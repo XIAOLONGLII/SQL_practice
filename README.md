@@ -2,6 +2,18 @@
 
 This is the SQL practice to let me understand how this works in a very efficient way! 
 
+Day 8 Where
+(equals =)
+(equals and greater than >=)
+(equals and less than  <=)
+(not equals to !=)
+
+----------------------------------------------------------------------------------
+
+
+![screen shot 2018-06-02 at 3 04 49 pm](https://user-images.githubusercontent.com/19642027/40879945-89396052-6676-11e8-8f77-df7be95f936e.png)
+
+
 Day 7 Order by
 
 ----------------------------------------------------------------------------------
