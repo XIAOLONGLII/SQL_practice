@@ -2,6 +2,15 @@
 
 This is the SQL practice to let me understand how this works in a very efficient way! 
 
+Day 7 Order by
+
+----------------------------------------------------------------------------------
+
+
+![screen shot 2018-06-02 at 1 48 23 pm](https://user-images.githubusercontent.com/19642027/40879298-b633ba0e-666b-11e8-8013-07ae167d4ad9.png)
+![screen shot 2018-06-02 at 1 48 55 pm](https://user-images.githubusercontent.com/19642027/40879299-b63f82a8-666b-11e8-91e6-119581f8d330.png)
+
+
 Day 6 LIMIT
 
 ----------------------------------------------------------------------------------
