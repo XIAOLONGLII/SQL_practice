@@ -9,6 +9,8 @@ Day 8 Where
 (not equals to !=)
 
 ----------------------------------------------------------------------------------
+![screen shot 2018-06-02 at 3 10 32 pm](https://user-images.githubusercontent.com/19642027/40879972-250a3bfa-6677-11e8-86d5-acaf106a26bb.png)
+
 
 
 ![screen shot 2018-06-02 at 3 04 49 pm](https://user-images.githubusercontent.com/19642027/40879945-89396052-6676-11e8-8f77-df7be95f936e.png)
