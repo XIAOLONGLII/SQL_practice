@@ -2,6 +2,20 @@
 
 This is the SQL practice to let me understand how this works in a very efficient way! 
 
+
+Day 10 LIKE
+'% c %' 
+'% c '
+'c %' 
+----------------------------------------------------------------------------------
+
+
+
+![screen shot 2018-06-03 at 3 47 29 pm](https://user-images.githubusercontent.com/19642027/40890526-ae2b16e2-6745-11e8-850f-8372e14b2b4b.png)
+![screen shot 2018-06-03 at 3 47 49 pm](https://user-images.githubusercontent.com/19642027/40890527-ae3c6582-6745-11e8-8838-96f32f5a4f5b.png)
+![screen shot 2018-06-03 at 3 48 12 pm](https://user-images.githubusercontent.com/19642027/40890528-ae520ad6-6745-11e8-80f2-eb84deb2867f.png)
+
+
 Day 9 + - x / as 
 
 ----------------------------------------------------------------------------------
