@@ -2,6 +2,13 @@
 
 This is the SQL practice to let me understand how this works in a very efficient way! 
 
+Day 9 + - x / as 
+
+----------------------------------------------------------------------------------
+
+![screen shot 2018-06-03 at 1 56 47 pm](https://user-images.githubusercontent.com/19642027/40889516-0858cd2c-6736-11e8-8156-7b0a021375d6.png)
+
+
 Day 8 Where
 (equals =)
 (equals and greater than >=)
