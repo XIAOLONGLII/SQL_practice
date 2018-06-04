@@ -2,6 +2,14 @@
 
 This is the SQL practice to let me understand how this works in a very efficient way! 
 
+Day 11 IN, Order by 
+
+----------------------------------------------------------------------------------
+![screen shot 2018-06-04 at 7 03 26 am](https://user-images.githubusercontent.com/19642027/40914358-e20cc7fa-67c5-11e8-8e60-c67c93615876.png)
+![screen shot 2018-06-04 at 7 05 35 am](https://user-images.githubusercontent.com/19642027/40914359-e21777b8-67c5-11e8-84e8-3a4b28e33aea.png)
+![screen shot 2018-06-04 at 7 06 18 am](https://user-images.githubusercontent.com/19642027/40914360-e22f35c4-67c5-11e8-8099-d385c5495b25.png)
+
+
 
 Day 10 LIKE
 '% c %' 
