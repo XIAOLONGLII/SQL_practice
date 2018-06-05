@@ -1,6 +1,13 @@
-# SQL_practice
+# SQL_practice, MS SQL Server
 
 This is the SQL practice to let me understand how this works in a very efficient way! 
+
+
+Day 12 MS SQL Server: Installation, Stored Procedure
+
+----------------------------------------------------------------------------------
+![query 1](https://user-images.githubusercontent.com/19642027/40984149-26d4ad1e-68af-11e8-8fdc-c8f1afe03fc5.PNG)
+
 
 Day 11 IN, Order by 
 
