@@ -5,6 +5,9 @@ This is the SQL practice to let me understand how this works in a very efficient
 
 Day 12 MS SQL Server: Installation, Stored Procedure
 
+![12](https://user-images.githubusercontent.com/19642027/41009417-fe2c1f14-68fe-11e8-9536-f131ba2901e4.PNG)
+
+
 ----------------------------------------------------------------------------------
 ![query 1](https://user-images.githubusercontent.com/19642027/40984149-26d4ad1e-68af-11e8-8fdc-c8f1afe03fc5.PNG)
 
