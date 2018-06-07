@@ -1,6 +1,12 @@
 #  MS SQL Server
 
 This is the SQL practice to let me understand how this works in a very efficient way! 
+Day 14 MS SQL Server - > Insert INTO, UPDATE SET
+----------------------------------------------------------------------------------
+
+![update_set](https://user-images.githubusercontent.com/19642027/41077873-38a8c8ac-69e7-11e8-9fcc-b039e39b4e3e.PNG)
+![insert](https://user-images.githubusercontent.com/19642027/41077874-38b89b38-69e7-11e8-903f-af467a0f3524.PNG)
+
 
 Day 13 MS SQL Server - > github samples
 ----------------------------------------------------------------------------------
