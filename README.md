@@ -1,4 +1,4 @@
-# SQL_practice, MS SQL Server
+#  MS SQL Server
 
 This is the SQL practice to let me understand how this works in a very efficient way! 
 
