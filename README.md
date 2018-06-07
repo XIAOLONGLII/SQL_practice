@@ -2,6 +2,15 @@
 
 This is the SQL practice to let me understand how this works in a very efficient way! 
 
+Day 13 MS SQL Server - > github samples
+----------------------------------------------------------------------------------
+
+![save_not_formated](https://user-images.githubusercontent.com/19642027/41076908-e9b6c672-69e1-11e8-9575-099945fea344.PNG)
+![format_number](https://user-images.githubusercontent.com/19642027/41076910-e9c67536-69e1-11e8-9790-5d2a87dcebd5.PNG)
+![1](https://user-images.githubusercontent.com/19642027/41076911-eae95af0-69e1-11e8-8228-2eecff3f88ac.PNG)
+![12](https://user-images.githubusercontent.com/19642027/41076914-ef635aae-69e1-11e8-8054-13ec8c5e8706.PNG)
+
+
 
 Day 12 MS SQL Server: Installation, Stored Procedure
 
