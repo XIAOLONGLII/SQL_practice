@@ -5,10 +5,18 @@ This is the SQL practice to let me understand how this works in a very efficient
 
 Day 15 MS SQL Server - > AS[name] is different as AS name
 ----------------------------------------------------------------------------------
+Case Then Else 
+----------------------------------------------------------------------------------
+
+![case_then_else](https://user-images.githubusercontent.com/19642027/41195076-f427d190-6bf4-11e8-8442-e511d5dbc942.PNG)
+
+when String is null, return null
+----------------------------------------------------------------------------------
 
 ![string_null_null](https://user-images.githubusercontent.com/19642027/41194953-29254e70-6bf2-11e8-8ee6-0c99eea7256a.PNG)
 
-
+As[]and AS name
+----------------------------------------------------------------------------------
 ![as_ _](https://user-images.githubusercontent.com/19642027/41194724-519d1f3a-6bee-11e8-9fa8-39232ca85a49.PNG)
 
 Day 14 MS SQL Server - > Insert INTO, UPDATE SET
