@@ -1,6 +1,13 @@
 #  MS SQL Server
 
 This is the SQL practice to let me understand how this works in a very efficient way! 
+
+
+Day 15 MS SQL Server - > AS[name] is different as AS name
+----------------------------------------------------------------------------------
+
+![as_ _](https://user-images.githubusercontent.com/19642027/41194724-519d1f3a-6bee-11e8-9fa8-39232ca85a49.PNG)
+
 Day 14 MS SQL Server - > Insert INTO, UPDATE SET
 ----------------------------------------------------------------------------------
 
