@@ -5,6 +5,13 @@ This is the SQL practice to let me understand how this works in a very efficient
 
 Day 15 MS SQL Server - > AS[name] is different as AS name
 ----------------------------------------------------------------------------------
+
+WHERE clause
+----------------------------------------------------------------------------------
+
+
+![where_clause](https://user-images.githubusercontent.com/19642027/41195673-3a33a29e-6c00-11e8-96e7-3133cbbfdbd9.PNG)
+
 Case Then Else 
 ----------------------------------------------------------------------------------
 
