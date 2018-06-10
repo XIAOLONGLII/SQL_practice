@@ -3,6 +3,15 @@
 This is the SQL practice to let me understand how this works in a very efficient way! 
 
 
+Day 16 MS SQL Server - IN Between AND
+----------------------------------------------------------------------------------
+
+
+----------------------------------------------------------------------------------
+![between_and](https://user-images.githubusercontent.com/19642027/41205581-061e915c-6cc4-11e8-8bd7-57039211db13.PNG)
+
+
+
 Day 15 MS SQL Server - > AS[name] is different as AS name
 ----------------------------------------------------------------------------------
 
