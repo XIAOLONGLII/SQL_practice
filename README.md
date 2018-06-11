@@ -1,6 +1,22 @@
 #  MS SQL Server
 
-This is the SQL practice to let me understand how this works in a very efficient way! 
+This is the SQL practice to let me understand how this works in a very efficient way!
+
+
+----------------------------------------------------------------------------------
+
+
+Day 17 MS SQL Server - ORDER BY
+----------------------------------------------------------------------------------
+
+![order_by](https://user-images.githubusercontent.com/19642027/41228432-5912411a-6d46-11e8-8dad-4e219f1e3979.PNG)
+----------------------------------------------------------------------------------
+
+
+Order by 1 , 2 (Column number)
+----------------------------------------------------------------------------------
+![order_by_column](https://user-images.githubusercontent.com/19642027/41228433-591eb0e4-6d46-11e8-80df-c1861ecf349c.PNG)
+
 
 
 Day 16 MS SQL Server - Join 
