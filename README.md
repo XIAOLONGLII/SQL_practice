@@ -5,6 +5,13 @@ This is the SQL practice to let me understand how this works in a very efficient
 
 ----------------------------------------------------------------------------------
 
+Day 18 MS SQL Server - GROUP BY
+----------------------------------------------------------------------------------
+
+
+![group_by](https://user-images.githubusercontent.com/19642027/41286563-ed1cbf8a-6e0d-11e8-8a2e-8ca06384e699.PNG)
+
+
 
 Day 17 MS SQL Server - ORDER BY
 ----------------------------------------------------------------------------------
