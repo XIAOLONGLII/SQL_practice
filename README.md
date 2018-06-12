@@ -4,6 +4,11 @@ This is the SQL practice to let me understand how this works in a very efficient
 
 
 ----------------------------------------------------------------------------------
+Day 18 MS SQL Server - TOP(20)/ TOP(20) TIES WITH
+----------------------------------------------------------------------------------
+
+![top_top_ties_with](https://user-images.githubusercontent.com/19642027/41287507-e87f4c2e-6e10-11e8-8b45-693618a1361c.PNG)
+
 
 Day 18 MS SQL Server - GROUP BY
 ----------------------------------------------------------------------------------
