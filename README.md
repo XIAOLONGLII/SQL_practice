@@ -2,6 +2,13 @@
 
 This is the SQL practice to let me understand how this works in a very efficient way!
 
+----------------------------------------------------------------------------------
+Day 19 MS SQL Server - Aggregates funtions _Count, _AVG, _MIN, _Max
+----------------------------------------------------------------------------------
+
+![aggregates_count_avg_sum_min_max](https://user-images.githubusercontent.com/19642027/41408099-8b3c0a6c-6f9f-11e8-8d55-582897131408.PNG)
+
+
 
 ----------------------------------------------------------------------------------
 Day 18 MS SQL Server - TOP(20)/ TOP(20) TIES WITH
