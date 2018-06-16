@@ -3,6 +3,12 @@
 This is the SQL practice to let me understand how this works in a very efficient way!
 
 ----------------------------------------------------------------------------------
+
+Day 20 MS SQL Server - Date Time
+----------------------------------------------------------------------------------
+
+![time_now](https://user-images.githubusercontent.com/19642027/41495677-a0973ef2-70fa-11e8-9e31-6eb99fb0878e.PNG)
+
 Day 19 MS SQL Server - Aggregates funtions _Count, _AVG, _MIN, _Max
 ----------------------------------------------------------------------------------
 
