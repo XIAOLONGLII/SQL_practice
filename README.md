@@ -3,6 +3,11 @@
 This is the SQL practice to let me understand how this works in a very efficient way!
 
 ----------------------------------------------------------------------------------
+Day 21 MS SQL Server - LIKE, N'%i% 
+----------------------------------------------------------------------------------
+
+![like_n_ _n](https://user-images.githubusercontent.com/19642027/41570935-de17aef6-733e-11e8-9569-9ec492b83d60.PNG)
+
 
 Day 20 MS SQL Server - Date Time
 ----------------------------------------------------------------------------------
