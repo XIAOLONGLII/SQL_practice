@@ -3,6 +3,12 @@
 This is the SQL practice to let me understand how this works in a very efficient way!
 
 ----------------------------------------------------------------------------------
+
+Day 22 MS SQL Server - Character Functions - Substring, replace, replicate 
+----------------------------------------------------------------------------------
+
+![character_functions](https://user-images.githubusercontent.com/19642027/41593574-886e95d2-738e-11e8-9c45-8c772e79c3a9.PNG)
+
 Day 21 MS SQL Server - LIKE, N'%i% 
 ----------------------------------------------------------------------------------
 
