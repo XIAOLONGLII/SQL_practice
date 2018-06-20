@@ -3,6 +3,10 @@
 This is the SQL practice to let me understand how this works in a very efficient way!
 
 ----------------------------------------------------------------------------------
+Day 23 MS SQL Server -EXIST- NOT EXIST
+----------------------------------------------------------------------------------
+![exists_not_exists](https://user-images.githubusercontent.com/19642027/41653922-b3297018-7455-11e8-9037-c0523e6d872e.PNG)
+
 
 
 Day 23 MS SQL Server - Nest query 
