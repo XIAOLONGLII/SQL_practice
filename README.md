@@ -3,6 +3,12 @@
 This is the SQL practice to let me understand how this works in a very efficient way!
 
 ----------------------------------------------------------------------------------
+
+Day 23 MS SQL Server -View- Create a View
+----------------------------------------------------------------------------------
+
+![view](https://user-images.githubusercontent.com/19642027/41654497-a5a165ca-7457-11e8-91a2-b13f0c327751.PNG)
+
 Day 23 MS SQL Server -EXIST- NOT EXIST
 ----------------------------------------------------------------------------------
 ![exists_not_exists](https://user-images.githubusercontent.com/19642027/41653922-b3297018-7455-11e8-9037-c0523e6d872e.PNG)
