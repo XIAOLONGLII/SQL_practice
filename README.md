@@ -4,6 +4,13 @@ This is the SQL practice to let me understand how this works in a very efficient
 
 ----------------------------------------------------------------------------------
 
+
+Day 23 MS SQL Server - Nest query 
+----------------------------------------------------------------------------------
+
+![nest_query](https://user-images.githubusercontent.com/19642027/41653428-0bd5ad28-7454-11e8-8d84-bcb0a853124b.PNG)
+
+
 Day 22 MS SQL Server - Character Functions - Substring, replace, replicate 
 ----------------------------------------------------------------------------------
 
