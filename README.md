@@ -3,6 +3,11 @@
 This is the SQL practice to let me understand how this works in a very efficient way!
 
 ----------------------------------------------------------------------------------
+Day 24 MS SQL Server -View:
+----------------------------------------------------------------------------------
+
+![t-sql-createview](https://user-images.githubusercontent.com/19642027/41773787-3e177ee0-75eb-11e8-959f-60501d7bbe96.PNG)
+
 
 Day 23 MS SQL Server -View- Create a View
 ----------------------------------------------------------------------------------
