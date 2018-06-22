@@ -3,6 +3,11 @@
 This is the SQL practice to let me understand how this works in a very efficient way!
 
 ----------------------------------------------------------------------------------
+Day 24 MS SQL Server -Create Procedure
+----------------------------------------------------------------------------------
+
+![create_procedure](https://user-images.githubusercontent.com/19642027/41773932-c4696882-75eb-11e8-9db3-8fb7a9f832dc.PNG)
+
 Day 24 MS SQL Server -View:
 ----------------------------------------------------------------------------------
 
